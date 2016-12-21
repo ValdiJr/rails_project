@@ -190,7 +190,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  actionpack (= 5.0.0.1)
   byebug (= 9.0.0)
   coffee-rails (= 4.2.1)
   guard (= 2.13.0)
